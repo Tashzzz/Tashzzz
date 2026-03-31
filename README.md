@@ -15,7 +15,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,firebase,spring,java,python,kotlin,php,androidstudio,figma&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,mongodb,firebase,spring,java,python,kotlin,php,androidstudio&theme=dark&perline=10" />
 </p>
 
 ---
