@@ -11,7 +11,10 @@
 </p>
 
 ---
-
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tashzzz&label=Profile%20Views&color=00E6C3&style=for-the-badge" alt="Profile Views" />
+</p>
 ## 🛠️ Languages and Tools
 
 <p align="center">
